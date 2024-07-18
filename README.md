@@ -3,8 +3,6 @@
 </p>
 
 
-# AI-HUB Assesment
-
 ### Current Version : https://aihub-assestment.vercel.app/
 
 ### Following are some main features :  
